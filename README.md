@@ -6,6 +6,8 @@ Note-taking should be simple: basic notebooks, markdown, and code editors. There
 
 ExitNote is a 100% free, end-to-end Evernote alternative. It keeps all your data local and uses a private GitHub repository as your database.
 
+Your notes are yours, and the workflow is built to keep you from being locked in: it gets all your notes automatically and integrates with both Evernote and GitHub.
+
 The Ecosystem:
 
 - **Desktop:** A macOS `.dmg` app that reads/writes local `.md` files and silently auto-syncs to GitHub.
